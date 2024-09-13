@@ -26,6 +26,7 @@ No installation is required. To view the portfolio:
 2. Open the `index.html` file in a web browser.
 
 Alternatively, visit the live site at [turriettaa.github.io/Portfolio/](https://turriettaa.github.io/Portfolio).
+<img src="Screenshot 2024-09-13 131834.png" alt="Site Screenshot">
 
 ## Usage
 
