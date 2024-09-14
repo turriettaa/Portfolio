@@ -36,6 +36,10 @@ Navigate through the site using the menu at the top of the page. Click on projec
 
 This is a personal portfolio project and is not open for contributions. However, if you have suggestions or find any issues, please feel free to open an issue in this repository.
 
+## Acknowledgments
+
+- Assisted by Amazon Q
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
